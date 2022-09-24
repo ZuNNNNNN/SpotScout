@@ -1,0 +1,5 @@
+------------IDEA------------
+Por ahora lo unico que tengo es la idea.
+Quiero una aplicacion que me permita registrar spots para patinar
+Dentro de mi ciudad, o en algun lugar
+Permitiendo añadir: foto, ubicacion, alguna descripcion (opcional)
